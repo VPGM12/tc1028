@@ -1,2 +1,2 @@
-Soy el jugador 1
+Inicie la batalla
 Jugador1
